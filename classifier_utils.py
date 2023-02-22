@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul  9 17:55:14 2020
 
-@author: cm
+@author: zgh
+
 """
 
 import os
@@ -726,7 +726,7 @@ def get_feature_test(sentence):
 
 if __name__ == '__main__':
     # Test
-    sentence = '天天向上'
+    sentence = '患者取平躺位'
     feature = get_feature_test(sentence)
     print('feature:', feature)
 

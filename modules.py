@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jul  8 19:55:52 2020
 
-@author: cm
+@author: zgh
+
 """
 
 import tensorflow as tf

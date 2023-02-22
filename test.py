@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+
+@author: zgh
+
+"""
+
 f = open('data/train.csv', 'r', encoding='utf-8')
 lines = f.readlines()
 data = []

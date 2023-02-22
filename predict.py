@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May 30 17:12:37 2019
 
-@author: cm
+@author: zgh
+
 """
 
 import os

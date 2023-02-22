@@ -1,4 +1,10 @@
-# coding=utf-8
+# -*- coding: utf-8 -*-
+"""
+
+@author: zgh
+
+"""
+
 
 """Functions and classes related to optimization (weight updates)."""
 

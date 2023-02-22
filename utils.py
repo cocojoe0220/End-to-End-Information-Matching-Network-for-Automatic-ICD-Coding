@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jul  8 19:57:44 2020
 
-@author: cm
+@author: zgh
+
 """
 
 import time
